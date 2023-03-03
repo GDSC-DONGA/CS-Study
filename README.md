@@ -17,7 +17,7 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
 - [학습내용] : 1,2차시 강의
   
    - [발표자 1]   : 신혜진
-      - [발표자료 1] : [발표자료 Blog](링크)
+      - [발표자료 1] : [발표자료 Blog](https://toki0411.tistory.com/59)
    
    - [발표자 2]   : 
       - [발표자료 2] : [발표자료 Blog](링크)
