@@ -20,7 +20,7 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
       - [발표자료 1] : [발표자료 Blog](https://toki0411.tistory.com/59)
    
    - [발표자 2]   : 김재원
-      - [발표자료 2] : [발표자료 Blog](링크)
+      - [발표자료 2] : [발표자료 Blog](https://github.com/wellbird/CS-Study/blob/ComputerNetwork/ComputerNetwork/1%EC%B0%A8%EC%8B%9C%2C2%EC%B0%A8%EC%8B%9C.md)
       
    - [발표자 3]   : 김예원
       - [발표자료 2] : [발표자료 Blog](https://github.com/yewon-yw/cs-study/blob/main/week%201.md)
