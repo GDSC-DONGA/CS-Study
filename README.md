@@ -19,8 +19,14 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
    - [발표자 1]   : 신혜진
       - [발표자료 1] : [발표자료 Blog](https://toki0411.tistory.com/59)
    
-   - [발표자 2]   : 
+   - [발표자 2]   : 김재원
       - [발표자료 2] : [발표자료 Blog](링크)
+      
+   - [발표자 3]   : 김예원
+      - [발표자료 2] : [발표자료 Blog](https://github.com/yewon-yw/cs-study/blob/main/week%201.md)
+      
+   - [발표자 4]   : 이승진
+      - [발표자료 2] : [발표자료 Blog](https://github.com/lpromotion/CS_Study/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
       
       
 # 📑 2주차 (2023.03.10)
