@@ -1,13 +1,37 @@
-# 📕[Study Title]
-Add a study introduction
+# 📕CS_Study
+동아대학교 GDSC **Computer Science** 스터디입니다. 컴퓨터 네트워크 과목을 학습합니다.
 
-# 📝Study Curriculum
-Write a study curriculum.
+# 📝스터디 방식
+매주 금요일 10시 Zep에서 전원 발표하는 방식으로 진행합니다. 
+http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨터네트워크 강의)
 
-# 📅Week's Homework
-Organize this week's homework
+# 🧑🏻‍💻스터디 멤버 
+- 신혜진(리더)
+- 김예원
+- 김재원
+- 박지훈
+- 이승진
 
-# 📑Study Reference
-Share study reference
+# 📑 1주차 (2023.03.03)
 
+- [학습내용] : 1,2차시 강의
+  
+   - [발표자 1]   : 신혜진
+      - [발표자료 1] : [발표자료 Blog](링크)
+   
+   - [발표자 2]   : 
+      - [발표자료 2] : [발표자료 Blog](링크)
+      
+      
+# 📑 2주차 (2023.03.10)
+
+# 📑 3주차 (2023.03.17)
+
+# 📑 4주차 (2023.03.24)
+
+# 📑 5주차 (2023.03.31)
+
+# 📑 6주차 (2023.04.07)
+
+# 📑 7주차 (2023.04.14)
 
