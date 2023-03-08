@@ -76,3 +76,4 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
    - [발표자 1]   : 
       - [발표자료 1] : 
 
+![image](https://user-images.githubusercontent.com/84217409/223752267-ce40f90e-41f4-4da9-a0e5-925f61df6164.png)
