@@ -36,8 +36,20 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
 
 - [학습내용] : 3,4차시 강의
   
-   - [발표자 1]   : 
-      - [발표자료 1] : 
+   - [발표자 1]   : 민지훈
+      - [발표자료 1] : [발표자료 Blog](https://afterdawncoding.tistory.com/239#2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%A0%84%EB%8B%AC%20%EB%B0%A9%EC%8B%9D-1)
+      
+   - [발표자 2]   : 박지훈
+      - [발표자료 2] : [발표자료 Blog](https://huyntohoon.tistory.com/8)
+      
+   - [발표자 3]   : 신혜진 
+      - [발표자료 3] : [발표자료 Blog](https://toki0411.tistory.com/61)
+      
+   - [발표자 4]   : 이승진
+      - [발표자료 4] : [발표자료 Blog](https://github.com/lpromotion/CS_Study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/3-%EC%BB%B4%ED%93%A8%ED%84%B0%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98_%EA%B3%84%EC%B8%B5.md)
+      
+   - [발표자 5]   : 김재원
+      - [발표자료 5] : [발표자료 Blog](https://github.com/wellbird/CS-Study/blob/main/ComputerNetwork/3%EC%B0%A8%EC%8B%9C%2C4%EC%B0%A8%EC%8B%9C.md)
       
    추가 주제 : 네트워크를 계층으로 나눈 이유가 뭔가요?? 
 
