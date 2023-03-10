@@ -50,7 +50,10 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
       
    - [발표자 5]   : 김재원
       - [발표자료 5] : [발표자료 Blog](https://github.com/wellbird/CS-Study/blob/main/ComputerNetwork/3%EC%B0%A8%EC%8B%9C%2C4%EC%B0%A8%EC%8B%9C.md)
-      
+   
+   - [발표자 6]   : 김예원
+      - [발표자료 6] : [발표자료 Blog](https://github.com/yewon-yw/cs-study/blob/main/week%202.md) 
+     
    추가 주제 : 네트워크를 계층으로 나눈 이유가 뭔가요?? 
 
 # 📑 3주차 (2023.03.17)
