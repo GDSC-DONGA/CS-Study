@@ -1,6 +1,7 @@
 ## 컴네 질문 모음 
-[출처1](https://github.com/omnireader0/Tech-Interview-Question)
-[출처2](https://github.com/ham-study/cs-study-for-interview)
+[출처1](https://github.com/omnireader0/Tech-Interview-Question) omnireader0님의 Tech-Interview-Question <br>
+[출처2](https://github.com/ham-study/cs-study-for-interview) ham-study님의 
+cs-study-for-interview
 
 ### **OSI 7 layer**
 
