@@ -5,7 +5,7 @@ cs-study-for-interview
 
 ### **OSI 7 layer**
 
-- 프로토콜
+- 프로토콜이란?
 - osi 7 layer이란?
 - tcp/ip layer이란?
 - osi 7 layer와 tcp/ip layer에서 계층화하는 이유
@@ -27,6 +27,11 @@ cs-study-for-interview
 - 만약 Server에서 FIN 세그먼트를 전송하기 전에 전송한 패킷이 Routing 지연이나 패킷 유실로 인한 재전송 등으로 인해 FIN 패킷보다 늦게 도착하는 상황이 발생하면 어떻게 될까?
 - TCP의 연결 설정 과정(3단계)과 연결 종료 과정(4단계)이 단계가 차이나는 이유?
 - 초기 Sequence Number인 ISN을 0부터 시작하지 않고 난수를 생성해서 설정하는 이유?
+- 넷플릭스는 TCP일까요? UDP일까요?
+- 흐름 제어에 대해 설명해 주세요.
+- 혼잡 제어에 대해 설명해 주세요.
+- 오류 제어에 대해 설명해 주세요.
+- (4 way handshake) 클라이언트에서 FIN 패킷을 보내고, 서버에서 ACK 패킷을 보낸 후 FIN 패킷을 보낸 상황이라고 가정합시다. 이때 클라인트에서 ACK패킷을 전송했는데, 서버에서 받지 못했다면 어떻게 될까요?
 
 ### **웹 통신 흐름**
 
@@ -40,11 +45,12 @@ cs-study-for-interview
 
 ### **HTTP와 HTTPS**
 
+- 클라이언트와 서버에 대해 설명해 주세요.
 - HTTP와 HTTPS를 설명해 주세요.
 - HTTP 특징을 설명을 해주세요.
 - HTTP의 단점을 설명해 주세요.
 - HTTP1.1와 HTTP2.0 차이점은 무엇인가요?
-- HTTP는 왜 비연결성인가?
+- HTTP는 왜 비연결성인가요?
 - HTTP 비연결성의 단점과 해결책
 - 모든 웹 페이지에서 HTTPS 를 사용하지 않는 이유를 설명해 주세요.
 - 비대칭키 또는 공개키 암호화 방식은 무엇인가요?
@@ -55,6 +61,8 @@ cs-study-for-interview
 - HTTP또는 암호화 되지 않은 프로토콜의 문제점은 무엇이 있나요?
 - 이러한 문제를 해결하기 위한 다양한 방안이 존재하는데 대표적으로 HTTPS 가 있습니다. HTTPS에 대해 설명 해주시겠어요?
 - HTTP 와 HTTPS 중 어떤 프로토콜이 더 많이 사용 된다고 생각하는지와 그 이유에 대해서 말씀해 주세요.
+- HTTP status code에 대해 설명해 주세요.
+- HTTPS를 적용해서 통신하는 과정에 대해 설명해주세요.
 
 ### 로드밸런서
 
@@ -74,8 +82,11 @@ cs-study-for-interview
 - DHCP 서버의 역할을 간단히 설명해 주세요.
 - Domain Name System 동작과정을 설명해 주세요.
 - DNS round robin 방식과 문제점과 해결방법을 설명해 주세요.
+- IPv4와 IPv6에 대해 설명해 주세요.
 
 ### REST API
+
+- REST API가 무엇인가요?
 
 - REST의 핵심 3가지 요소를 포함하여 REST가 무엇인지 설명해 주세요.
 
