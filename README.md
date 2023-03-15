@@ -65,7 +65,7 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
       
    추가 주제 : 
    - HTTP와 HTTPS를 설명해 주세요.
-   - IPv4와 IPv6의 차이에 대해 설명해 주세요. (선택)
+  
    
 # 📑 4주차 (2023.03.24)
 
@@ -73,6 +73,8 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
   
    - [발표자 1]   : 
       - [발표자료 1] : 
+      
+  추가 주제 : IPv4와 IPv6의 차이에 대해 설명해 주세요. 
 
 # 📑 5주차 (2023.03.31)
 
