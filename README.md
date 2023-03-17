@@ -60,9 +60,18 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
 
 - [학습내용] : 5,6차시 강의
   
-   - [발표자 1]   : 
-      - [발표자료 1] : 
+   - [발표자 1]   : 신혜진
+      - [발표자료 1] : [발표자료 Blog](https://toki0411.tistory.com/62)
       
+   - [발표자 2]   : 김예원
+      - [발표자료 2] : [발표자료 Blog](https://github.com/yewon-yw/cs-study/blob/main/week%203.md)
+      
+   - [발표자 3]   : 이승진
+      - [발표자료 3] : [발표자료 Blog](https://github.com/lpromotion/CS_Study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/5-%EC%9D%91%EC%9A%A9%EA%B3%84%EC%B8%B5(2).md)
+      
+   - [발표자 4]   : 민지훈
+      - [발표자료 4] : [발표자료 Blog](https://afterdawncoding.tistory.com/240)
+    
    추가 주제 : 
    - HTTP와 HTTPS를 설명해 주세요.
   
