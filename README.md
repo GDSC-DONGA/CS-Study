@@ -80,9 +80,24 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
 
 - [학습내용] : 7,8차시 강의
   
-   - [발표자 1]   : 
-      - [발표자료 1] : 
+   - [발표자 1]   : 민지훈
+      - [발표자료 1] : [발표자료 Blog](https://afterdawncoding.tistory.com/241), [발표자료 Blog](https://afterdawncoding.tistory.com/242) 
       
+    - [발표자 2]   : 김재원
+      - [발표자료 2] : [발표자료 Blog](https://github.com/wellbird/CS-Study/blob/main/ComputerNetwork/7%EC%B0%A8%EC%8B%9C%2C8%EC%B0%A8%EC%8B%9C.md)
+      
+   - [발표자 3]   : 박지훈
+      - [발표자료 3] : [발표자료 Blog](https://huyntohoon.tistory.com/29), [발표자료 Blog](https://huyntohoon.tistory.com/30)
+      
+   - [발표자 4]   : 신혜진
+      - [발표자료 4] : [발표자료 Blog](https://toki0411.tistory.com/63)
+   
+   - [발표자 5]   : 김예원
+      - [발표자료 5] : [발표자료 Blog](https://github.com/yewon-yw/cs-study/blob/main/week%204.md)
+   
+   - [발표자 6]   : 이승진
+      - [발표자료 6] : [발표자료 Blog]()
+       
   추가 주제 : IPv4와 IPv6의 차이에 대해 설명해 주세요. 
 
 # 📑 5주차 (2023.03.31)
