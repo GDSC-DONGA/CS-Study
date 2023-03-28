@@ -94,9 +94,6 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
    
    - [발표자 5]   : 김예원
       - [발표자료 5] : [발표자료 Blog](https://github.com/yewon-yw/cs-study/blob/main/week%204.md)
-   
-   - [발표자 6]   : 이승진
-      - [발표자료 6] : [발표자료 Blog]()
        
   추가 주제 : IPv4와 IPv6의 차이에 대해 설명해 주세요. 
 
@@ -106,6 +103,8 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
   
    - [발표자 1]   : 
       - [발표자료 1] : 
+  
+  추가 주제 : 3-Handshaking과 4-Handshaking의 과정을 설명해 주세요. 
 
 # 📑 6주차 (2023.04.07)
 
