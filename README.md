@@ -101,8 +101,11 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
 
 - [학습내용] : 9,10차시 강의
   
-   - [발표자 1]   : 
-      - [발표자료 1] : 
+   - [발표자 1]   : 민지훈
+      - [발표자료 1] : [발표자료 Blog](https://afterdawncoding.tistory.com/244), [발표자료 Blog](https://afterdawncoding.tistory.com/245)
+      
+   - [발표자 2]   : 신혜진
+      - [발표자료 2] : [발표자료 Blog](https://toki0411.tistory.com/64)
   
   추가 주제 : 3-Handshaking과 4-Handshaking의 과정을 설명해 주세요. 
 
