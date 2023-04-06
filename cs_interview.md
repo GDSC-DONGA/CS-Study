@@ -134,3 +134,14 @@ cs-study-for-interview
 - SSL과 TLS?
 
 - CSRF?
+
+### 백엔드 개발자 기술 면접 준비 
+
+- HTTP GET 메서드와 POST 메서드의 차이를 설명해주세요.
+- OSI 7계층에 대해 설명해주세요.
+- REST API에 대해 설명해주세요.
+- TCP와 UDP의 차이점에 대해 설명해주세요.
+- Cookie, Session, Token 기반 인증에 대해 설명해주세요.
+- HTTPS 인증 방식에 대해 설명해주세요.
+- google.com 에 접속했을 때 어떤 일이 발생할까요? 순서대로 아는 만큼 답해주세요.
+- HTTP 버전 별 차이와 개선된 점에 대해 설명해주세요.
