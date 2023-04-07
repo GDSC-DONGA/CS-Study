@@ -113,8 +113,20 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
 
 - [학습내용] : 11,12차시 강의
   
-   - [발표자 1]   : 
-      - [발표자료 1] : 
+   - [발표자 1]   : 민지훈
+      - [발표자료 1] : [발표자료 Blog](https://afterdawncoding.tistory.com/253), [발표자료 Blog](https://afterdawncoding.tistory.com/254), [발표자료 Blog](https://afterdawncoding.tistory.com/255)
+      
+   - [발표자 2]   : 신혜진
+      - [발표자료 2] : [발표자료 Blog](https://toki0411.tistory.com/65)
+      
+   - [발표자 3]   : 김재원
+      - [발표자료 3] : [발표자료 Blog](https://github.com/wellbird/CS-Study/blob/main/ComputerNetwork/11%EC%B0%A8%EC%8B%9C%2C12%EC%B0%A8%EC%8B%9C.md)
+      
+   - [발표자 4]   : 이승진
+      - [발표자료 4] : [발표자료 Blog](https://github.com/lpromotion/CS_Study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/12-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B3%84%EC%B8%B5(2).md)
+      
+   - [발표자 5]   : 박지훈
+      - [발표자료 5] : [발표자료 Blog](https://huyntohoon.tistory.com/35) 
       
   추가 주제 : 도메인과 ip 주소에 대해서 설명해 주세요.
 
