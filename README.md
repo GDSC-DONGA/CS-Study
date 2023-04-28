@@ -139,6 +139,10 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
       
    - [발표자 2]   : 신혜진
       - [발표자료 2] : [발표자료 Blog](https://toki0411.tistory.com/67)
+
+   - [발표자 3]   : 김재원
+      - [발표자료 3] : [발표자료 Blog](https://github.com/wellbird/CS-Study/blob/main/ComputerNetwork/13%EC%B0%A8%EC%8B%9C%2C14%EC%B0%A8%EC%8B%9C.md)
+ 
       
 
 
