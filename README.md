@@ -143,6 +143,9 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
    - [발표자 3]   : 김재원
       - [발표자료 3] : [발표자료 Blog](https://github.com/wellbird/CS-Study/blob/main/ComputerNetwork/13%EC%B0%A8%EC%8B%9C%2C14%EC%B0%A8%EC%8B%9C.md)
  
+# 📑 8주차 (2023.05.05)
       
+- [학습내용] : 총 정리 
 
-
+   - [발표자 1]   : 
+      - [발표자료 1] : [발표자료 Blog]()
