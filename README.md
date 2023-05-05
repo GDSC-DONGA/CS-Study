@@ -148,22 +148,22 @@ http://www.kocw.net/home/search/kemView.do?kemId=1159726 (한국항공대 컴퓨
 - [학습내용] : 총 정리 
 
    - [발표자 1]   : 박지훈
-      - [발표자료 1] : 웹 통신 흐름[발표자료 Blog](https://huyntohoon.tistory.com/36)
+      - [발표자료 1] : 웹 통신 흐름    [발표자료 Blog](https://huyntohoon.tistory.com/36)
    
    - [발표자 2]   : 김재원
-      - [발표자료 2] : HTTP 와 HTTPS[발표자료 Blog](https://github.com/wellbird/CS-Study/blob/main/ComputerNetwork/HTTP%26HTTPS.md)
+      - [발표자료 2] : HTTP 와 HTTPS    [발표자료 Blog](https://github.com/wellbird/CS-Study/blob/main/ComputerNetwork/HTTP%26HTTPS.md)
 
    - [발표자 3]   : 민지훈
-      - [발표자료 3] : IP, 도메인, DNS[발표자료 Blog](https://afterdawncoding.tistory.com/241)
+      - [발표자료 3] : IP, 도메인, DNS    [발표자료 Blog](https://afterdawncoding.tistory.com/241)
       
    - [발표자 4]   : 신혜진
-      - [발표자료 4] : REST API, Cookie, Session, JWT[발표자료 Blog](https://toki0411.tistory.com/68)
+      - [발표자료 4] : REST API, Cookie, Session, JWT    [발표자료 Blog](https://toki0411.tistory.com/68)
       
    - [발표자 5]   : 이승진
-      - [발표자료 5] : TCP, UDP[발표자료 Blog](https://github.com/lpromotion/CS_Study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/TCP%2CUDP.md)
+      - [발표자료 5] : TCP, UDP    [발표자료 Blog](https://github.com/lpromotion/CS_Study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/TCP%2CUDP.md)
       
     - [발표자 6]   : 김예원
-      - [발표자료 6] : osi 7 layer[발표자료 Blog](https://github.com/yewon-yw/cs-study/blob/main/week%208.md)
+      - [발표자료 6] : osi 7 layer    [발표자료 Blog](https://github.com/yewon-yw/cs-study/blob/main/week%208.md)
 
 
 
